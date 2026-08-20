@@ -1,4 +1,5 @@
-Voici une documentation technique complète, claire et prête à être copiée-collée dans votre **GitHub (dans un fichier `README.md` ou `DOCS.md`)**, bilingue/anglais (standard GitHub) avec explications détaillées :
+<img width="1336" height="1310" alt="StarSpike_generator_illu" src="https://github.com/user-attachments/assets/d948b704-9192-4dc9-9fdc-bcf03a3fdabc" />
+
 
 ---
 
