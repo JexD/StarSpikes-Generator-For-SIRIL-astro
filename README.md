@@ -1,4 +1,5 @@
-<img width="1336" height="1310" alt="StarSpike_generator_illu" src="https://github.com/user-attachments/assets/d948b704-9192-4dc9-9fdc-bcf03a3fdabc" />
+<img width="1529" height="1217" alt="StarSpike_generator_illu" src="https://github.com/user-attachments/assets/d594932c-0fa4-44ff-984a-dc2a28e0cb81" />
+
 
 
 ---
